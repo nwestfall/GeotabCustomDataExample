@@ -1,0 +1,11 @@
+/Users/nathan.westfall/TEMP/getotabcustomdata/bin/Debug/netcoreapp2.1/getotabcustomdata.deps.json
+/Users/nathan.westfall/TEMP/getotabcustomdata/bin/Debug/netcoreapp2.1/getotabcustomdata.runtimeconfig.json
+/Users/nathan.westfall/TEMP/getotabcustomdata/bin/Debug/netcoreapp2.1/getotabcustomdata.runtimeconfig.dev.json
+/Users/nathan.westfall/TEMP/getotabcustomdata/bin/Debug/netcoreapp2.1/getotabcustomdata.dll
+/Users/nathan.westfall/TEMP/getotabcustomdata/bin/Debug/netcoreapp2.1/getotabcustomdata.pdb
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.csprojAssemblyReference.cache
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.csproj.CoreCompileInputs.cache
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.AssemblyInfoInputs.cache
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.AssemblyInfo.cs
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.dll
+/Users/nathan.westfall/TEMP/getotabcustomdata/obj/Debug/netcoreapp2.1/getotabcustomdata.pdb
